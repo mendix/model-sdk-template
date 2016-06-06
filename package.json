@@ -1,0 +1,20 @@
+{
+  "name": "model-sdk-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal template project to get started quickly with the Mendix Model SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc index.ts && node ."
+  },
+  "keywords": [],
+  "author": "michel.weststrate@mendix.com",
+  "license": "MIT",
+  "dependencies": {
+    "mendixmodelsdk": "^2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
