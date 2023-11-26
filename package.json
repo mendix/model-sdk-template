@@ -12,7 +12,7 @@
   "author": "michel.weststrate@mendix.com",
   "license": "MIT",
   "dependencies": {
-    "mendixmodelsdk": "^2.4.0"
+    "mendixmodelsdk": "^4.0.0"
   },
   "devDependencies": {
     "typescript": "^1.8.10"
